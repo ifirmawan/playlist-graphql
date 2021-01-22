@@ -1,0 +1,32 @@
+{
+  "name": "playlist-graphql",
+  "version": "1.0.0",
+  "description": "basic example using graphql",
+  "main": "server.js",
+  "scripts": {
+    "dev": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ifirmawan/playlist-graphql.git"
+  },
+  "keywords": [
+    "graphql",
+    "playlist",
+    "example"
+  ],
+  "author": "Iwan Firmawan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ifirmawan/playlist-graphql/issues"
+  },
+  "homepage": "https://github.com/ifirmawan/playlist-graphql#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-graphql": "^0.12.0",
+    "graphql": "^15.4.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
