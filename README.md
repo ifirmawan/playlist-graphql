@@ -4,5 +4,5 @@ Membuat resource API bertemakan daftar lagu statis dibuat dengan tujuan belajar 
 ## Progress Belajar
 - [x] Membuat routing Graphql.
 - [x] Membuat Schema Hello World.
-- [ ] Schema Daftar Artis.
+- [x] Schema Daftar Artis.
 - [ ] Schema Daftar Lagu Berdasarkan Artis.
